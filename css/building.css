@@ -271,7 +271,7 @@ body.building_version .section-title h3 {
     padding: 22px;
 }
 #footer {
-    background: url('../images/footer-img.png');
+    background: url('../images/footer-img1.png');
     background-size: auto auto;
     padding: 20px 0 0;
     position: relative;
@@ -385,9 +385,9 @@ body.building_version .section-title h3 {
 }
 #bottom {
     font-size: 0.857em;
-    background-color: #111;
+    background-color: #fff;
     padding: 19px 0;
-    color: #b7b7b7;
+    color: #000;
     margin-top: 60px;
 }
 #bottom .bottom-bar-content {
